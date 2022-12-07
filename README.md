@@ -42,10 +42,10 @@ Termine com um exemplo de imagens e com uma pequena demonstração.
 * <image src="img/tela1.png" >
 
 # Tela 2
-* <image src="img/tela2.png">
+* <image src="img/tela2.PNG">
 
 # Tela 3
-* <image src="img/tela3.png">
+* <image src="img/tela3.PNG">
 
 # Video
 * <image src="img/video.gif">
